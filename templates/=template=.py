@@ -1,11 +1,12 @@
 #! /usr/bin/env python
-# -*- coding: utf-8 -*-
-# vim:fenc=utf-8
+# vim:fenc=utf-8:ts=4:sts=4:sw=4
 #
-# Copyright © %YEAR% %USER% <%MAIL%>
+# file: %FFILE%
+# date: %DATE%
+# author: %USER% <%MAIL%>
 #
 # Distributed under terms of the %LICENSE% license.
+#
+# %HERE%
 
-"""
-%HERE%
-"""
+
